@@ -15,9 +15,21 @@ Turma do 2 ano sesc - Informatica
 
 <hr>
 
-**github**
+** github **
+1. Aula1
+2. Aula2
+3. Aula3
 
-_github_
+_ github _
+
+- [] opção 1
+- [] opção 2
+- [] opção 3
+
+#Título 1
+***
+![senac](https://www.senac.com.br)
+
 
 <!--
 **SrDudu666/SrDudu666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
