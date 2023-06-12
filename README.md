@@ -16,7 +16,7 @@ Turma do 2 ano sesc - Informatica
 <br>
 
 **github**
-__github__
+_github_
 
 <!--
 **SrDudu666/SrDudu666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
