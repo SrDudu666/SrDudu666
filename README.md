@@ -13,9 +13,10 @@ Aula de Informatica = produção do README
 
 Turma do 2 ano sesc - Informatica
 
-<br>
+<hr>
 
 **github**
+
 _github_
 
 <!--
